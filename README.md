@@ -44,7 +44,7 @@ I’m passionate about supporting students with migration backgrounds, as I beli
 
 ## Roadmap Stats
 
-[![roadmap.sh](https://roadmap.sh/card/tall/646250dc410780a6d9b4e8a5?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/646250dc410780a6d9b4e8a5?variant=dark)](https://roadmap.sh)
 
 ## 🎸 Hobbies & Interests
 
