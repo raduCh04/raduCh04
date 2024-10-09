@@ -42,6 +42,10 @@ I’m passionate about supporting students with migration backgrounds, as I beli
 ![raduCh04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raduCh04&theme=vue-dark&hide_border=true)  
 ![raduCh04's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raduCh04&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+## Roadmap Stats
+
+[![roadmap.sh](https://roadmap.sh/card/tall/646250dc410780a6d9b4e8a5?variant=dark)](https://roadmap.sh)
+
 ## 🎸 Hobbies & Interests
 
 Outside of tech, I love playing the guitar 🎸, creating my own music, and constantly learning about new advancements in technology. I also enjoy reading non-fiction books, especially on topics related to technology, economics, and science.
