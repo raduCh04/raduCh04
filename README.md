@@ -51,6 +51,8 @@ I’m passionate about supporting students with migration backgrounds, as I beli
   [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)
   [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
   [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+  [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+  [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
   
 - **Databases**:
   [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
@@ -65,6 +67,15 @@ I’m passionate about supporting students with migration backgrounds, as I beli
 ## Roadmap Stats
 
 [![roadmap.sh](https://roadmap.sh/card/wide/646250dc410780a6d9b4e8a5?variant=dark)](https://roadmap.sh)
+
+## 🌐 Spoken Languages
+
+- **German**: C2 (Fluent)
+- **English**: C1 (Fluent)
+- **Spanish**: B1 (Intermediate)
+- **Italian**: A1 (Basic)
+- **Romanian**: Native
+- **Russian**: Native
 
 ## 🎸 Hobbies & Interests
 
