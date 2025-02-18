@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I’m currently a **Computer Science student** at 
 
 ## 💼 Professional Experience
 
+- **Project Coordinator** at Stiftung Pro Ausbildung for MINTagenten (Feb 2025 - Present): Coordinating the MINTagenten project, which connects passionate individuals with schools to promote MINT education.
 - **Mathematics Tutor** at Smart-Nachhilfe (Nov 2023 - July 2024): Developed customized tutoring strategies for students, helping them improve their grades and build confidence.
 - **Customer Service & Delivery Driver** at Picnic GmbH (Aug 2023 - Oct 2023): Enhanced my communication and problem-solving skills through direct customer interactions.
 - **Bank-Office Intern** at ISBank AG (Jan 2021): Assisted with daily tasks, customer service, and data processing, gaining insights into back-office operations and improving organizational skills.
